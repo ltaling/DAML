@@ -1,0 +1,12 @@
+#class tools::wcsv::ntuple
+#title Deposited energy
+#separator 44
+#vector_separator 59
+#column double Generated
+#column double Homogeneous Layer
+#column double Sampling Layer1
+#column double Sampling Layer2
+#column double Sampling Layer3
+#column double Sampling Layer4
+#column double Sampling Layer5
+1000,333.773,17.5182,0.221573,0,0,0
