@@ -1,0 +1,11 @@
+#class tools::wcsv::ntuple
+#title Deposited Energy
+#separator 44
+#vector_separator 59
+#column double Generated
+#column double Layer1
+#column double Layer2
+#column double Layer3
+#column double Layer4
+#column double Layer5
+0,96.6933,9.06053,2.85895,0.102833,0
